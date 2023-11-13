@@ -14,11 +14,11 @@ To use GitHub Repo Getter, you'll need Python installed on your system.
 
 1. Clone the repository:
 ```bash
-   git clone https://github.com/kWAYTV/github-repo-getter.git
+git clone https://github.com/kWAYTV/github-repo-getter.git
 ```
 2. Navigate to the project directory:
 ```bash
-   cd github-repo-getter
+cd github-repo-getter
 ```
 
 ## 📋 Usage
